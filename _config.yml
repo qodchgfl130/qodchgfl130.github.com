@@ -32,10 +32,10 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: 프로젝트
+    title_projects: 포트폴리오
     title_misc_list: Details
     title_blog: 글
-    title_old_projects: 올드 프로젝트
+    title_old_projects: 예전 프로젝트
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
