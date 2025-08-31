@@ -2,8 +2,7 @@ title: suhyeon Blog!
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+  이곳은 suhyeon의 개인 블로그 입니다. 이 블로그에는 코딩 관련 정보, 파이썬프로젝트, 일렉기타 커버곡 들을 올릴 예정입니다.
 permalink: /:slug
 
 favicon: "./logo (2).png" # relative path to site's favicon
