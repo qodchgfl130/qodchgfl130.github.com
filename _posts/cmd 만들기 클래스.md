@@ -69,5 +69,31 @@ if __name__ == "__main__":
     run()
 ```
 # 클래스-내용
-내용...
+```python
+
+import os
+class sucmd:
+
+```
+
+내장 함수인 os 모듈을 정의하고 "sucmd" 라는 클래스를 생성합니다
+
+```python
+
+def __init__(self):
+        self.value = ""
+
+```
+### __init__(self): 생성자 메서드
+ 
+self.value 변수를 생성합니다
+
+```python
+
+    def value_input(self):
+        self.value = input(os.getcwd() + ">")
+        return self.value
+
+```
+
 
