@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: News
+    url: news
     desc: this is My first Pyhton Project
 
   - title: Project 2
