@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: Project 1
     url: News
-    desc: This is an example project, configured in _data/home.yml
+    desc: this is My first Pyhton Project
 
   - title: Project 2
     url: overview-post
