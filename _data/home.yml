@@ -9,7 +9,7 @@ navbar_entries:
     url: https://github.com/qodchgfl130
 
 project_entries:
-  - title: Project 1
+  - title: PyQt Of the News
     url: news
     desc: this is My first Pyhton Project
 
